@@ -1,4 +1,4 @@
-//When you input an integer, only multiples of three or five are considered in the sum of of 1 to n.
+//When you input an integer, n, only multiples of three or five are considered in the sum of of 1 to n.
 sum, e.g. 3, 5, 6, 9, 10, 12, 15 for n=17
 import java.util.Scanner;
 
