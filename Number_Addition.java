@@ -1,3 +1,5 @@
+//When you input an integer, n, the programs calculates and prints the sum of 1 to n.
+
 import java.util.Scanner;
 
 public class Number_Addition {
